@@ -122,7 +122,7 @@
 <p style='text-align: justify;'>
   The distribution of scores of speakers: </p>
   
-<p id = "scores_speakers" align="center">
+<p align="center">
   <img src = 'https://user-images.githubusercontent.com/57099519/146549234-ea17ffe2-f70e-40c3-8d9c-f5ea3db72ce0.png' alt = 'speaker score'>
   CHANGER A SCORES SPEAKERS
 </p>
@@ -153,7 +153,7 @@
 </p>
 
 <p style='text-align: justify;'> 
-  Unsurprisingly, <i><b>I think</b></i> (scores for present and past tense are 0.67 and 0.58 respectively) and <i><b>I know</b></i> (scores for present and past tense, 0.92	0.87 respectively) take the top two spots, and are used over ten thousand times each. The values also correspond to the peaks visible in the <a href="#scores_speakers"> score distribution of speakers </a> shown previously. </p>
+  Unsurprisingly, <i><b>I think</b></i> (scores for present and past tense are 0.67 and 0.58 respectively) and <i><b>I know</b></i> (scores for present and past tense, 0.92	0.87 respectively) take the top two spots, and are used over ten thousand times each. The values also correspond to the peaks visible in the score distribution of speakers shown previously. </p>
 
 ### Men vs. Women
 
